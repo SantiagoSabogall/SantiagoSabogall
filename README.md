@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Santiago Sabogal!
 
-<!--
-**SantiagoSabogall/SantiagoSabogall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Physics student at Universidad Nacional de Colombia - Member of the computational astrophysics group, working on the development of algorithms for the N-body problem.
+🌌 Passionate about **computational astrophysics**, **numerical methods**, and **scientific programming**  
+🧪 I love exploring how math and code can help us understand the universe
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools
+
+- 🐍 Programming: `Python`, `Julia` (basic), `MATLAB` (basic)
+- 📐 Fields of interest: `N-body simulations`, `PINNS`, 
+
+---
+
+## 📚 Currently Learning
+
+- Advanced methods in **scientific computing**
+- Basics of **Julia** for numerical tasks
+- How to document and share scientific code better
+
