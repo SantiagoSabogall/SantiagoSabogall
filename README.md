@@ -9,7 +9,7 @@
 ## 🚀 Technologies & Tools
 
 - 🐍 Programming: `Python`, `Julia` (basic), `MATLAB` (basic)
-- 📐 Fields of interest: `N-body simulations`, `PINNS`, `ML`
+- 📐 Fields of interest: `N-body simulations`, `PINNS`, `ML`, `AI`,`NLP` 
 
 ---
 
