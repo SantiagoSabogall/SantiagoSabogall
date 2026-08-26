@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Santiago Sabogal!
 
 🎓 Physics student at Universidad Nacional de Colombia - Member of the computational astrophysics group.
- Passionate about **computational astrophysics**, **numerical methods**, and **scientific programming**  
+ Passionate about **computational astrophysics**, **machine learning**, and **AI**  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-sabogal-pedreros-74b7252b1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssabogal@unal.edu.co) 
